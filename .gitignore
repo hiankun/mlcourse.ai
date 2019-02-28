@@ -112,6 +112,9 @@ dmypy.json
 # large data files
 data/athlete_events.csv
 data/2008.csv.bz2
+data/train_sessions.csv
+data/test_sessions.csv
+data/site_dic.pkl
 
 # other shit
 .DS_Store
