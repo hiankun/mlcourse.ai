@@ -117,6 +117,7 @@ data/test_sessions.csv
 data/site_dic.pkl
 jupyter_english/assignments_spring2019/baseline_1.csv
 jupyter_english/assignments_spring2019/baseline_2.csv
+jupyter_english/assignments_spring2019_solutions/
 
 # other shit
 .DS_Store
