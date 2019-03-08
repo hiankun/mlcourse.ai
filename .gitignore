@@ -115,6 +115,7 @@ data/2008.csv.bz2
 data/train_sessions.csv
 data/test_sessions.csv
 data/site_dic.pkl
+data/kaggle_medium/
 jupyter_english/assignments_spring2019/baseline_1.csv
 jupyter_english/assignments_spring2019/baseline_2.csv
 jupyter_english/assignments_spring2019_solutions/
